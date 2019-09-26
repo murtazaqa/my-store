@@ -1,7 +1,0 @@
-2019-09-25 18:36:39,304 [myid:] - INFO  [main:QuorumPeerConfig@103] - Reading configuration from: /Users/murtazaahmedi/Documents/softwares/zookeeper-3.4.8/bin/../conf/zoo.cfg
-2019-09-25 18:36:39,307 [myid:] - INFO  [main:DatadirCleanupManager@78] - autopurge.snapRetainCount set to 3
-2019-09-25 18:36:39,307 [myid:] - INFO  [main:DatadirCleanupManager@79] - autopurge.purgeInterval set to 0
-2019-09-25 18:36:39,307 [myid:] - INFO  [main:DatadirCleanupManager@101] - Purge task is not scheduled.
-2019-09-25 18:36:39,307 [myid:] - WARN  [main:QuorumPeerMain@113] - Either no config or no quorum defined in config, running  in standalone mode
-2019-09-25 18:36:39,315 [myid:] - INFO  [main:QuorumPeerConfig@103] - Reading configuration from: /Users/murtazaahmedi/Documents/softwares/zookeeper-3.4.8/bin/../conf/zoo.cfg
-2019-09-25 18:36:39,315 [myid:] - INFO  [main:ZooKeeperServerMain@95] - Starting server
